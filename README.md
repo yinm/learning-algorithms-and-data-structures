@@ -1,1 +1,1 @@
-# typescript-algorithms
+# learning-algorithms-and-data-structures
